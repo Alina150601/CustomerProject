@@ -1,3 +1,4 @@
+using System;
 using ValueOf;
 
 namespace MinimalApi.Domain.Common;
