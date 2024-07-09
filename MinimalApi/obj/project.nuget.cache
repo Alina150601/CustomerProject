@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIqwmIpJsUqWlrA5ewn/5JyUF9duzhufQN5TVldx6AgNDo0jZ7RWAZAdTQ5iWTbvSDVHmZPaXZKEKy4TU5TI1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alina.bartsevich\\RiderProjects\\MinimalApi\\MinimalApi\\MinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina.bartsevich\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\alina.bartsevich\\.nuget\\packages\\valueof\\2.0.31\\valueof.2.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
